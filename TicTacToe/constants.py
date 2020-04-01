@@ -1,0 +1,5 @@
+BLANK_VALUE = 0
+X_VALUE = 1
+O_VALUE = 2
+
+PIECES = ["_", "X", "O"]
